@@ -1,0 +1,29 @@
+{
+  "welcome": "Benvenuto nell'applicazione!",
+  "description": "Questa è un'applicazione multilingue.",
+  "header": {
+    "home": "Casa",
+    "about": "Informazioni",
+    "contact": "Contatti",
+    "cards": {
+      "Total Ads": "Annunci totali",
+      "Active Ads": "Annunci attivi",
+      "Total CPC": "CPC totale",
+      "Total CTR": "CTR totale"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright © 2024 Gestione Annunci, Tutti i diritti riservati",
+    "craftedBy": "Creato e realizzato da"
+  },
+  "buttons": {
+    "submit": "Invia",
+    "cancel": "Annulla",
+    "learnMore": "Scopri di più"
+  },
+  "messages": {
+    "error": "Si è verificato un errore. Per favore riprova.",
+    "loading": "Caricamento in corso...",
+    "noData": "Nessun dato disponibile"
+  }
+}

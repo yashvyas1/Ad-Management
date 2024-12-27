@@ -1,0 +1,29 @@
+{
+  "welcome": "Welcome to the application!",
+  "description": "This is a multilingual application.",
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "cards": {
+      "Total Ads": "Total Ads",
+      "Active Ads": "Active Ads",
+      "Total CPC": "Total CPC",
+      "Total CTR": "Total CTR"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright © 2024 Ads Management, All Rights Reserved",
+    "craftedBy": "Hand-crafted & Made by"
+  },
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "learnMore": "Learn More"
+  },
+  "messages": {
+    "error": "An error has occurred. Please try again.",
+    "loading": "Loading...",
+    "noData": "No data available"
+  }
+}
